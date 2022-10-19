@@ -1,0 +1,47 @@
+.container-serveces-first_servis h1, .container-serveces-second_servis h1, .container-serveces-therd_servis h1 {
+  -webkit-text-decoration: underline solid #0088a9;
+          text-decoration: underline solid #0088a9;
+  font-size: 40px;
+  color: #0088a9;
+  margin-top: 30px;
+}
+
+.container-serveces-first_servis h3, .container-serveces-second_servis h3, .container-serveces-therd_servis h3 {
+  font-size: 25px;
+  margin-top: 25px;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  background-color: #242528;
+}
+
+.container {
+  color: #fff;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 30px 10%;
+}
+
+.container-titel {
+  width: 100%;
+}
+
+.container-titel h1 {
+  margin: 10px 50px 10px 600px;
+  -webkit-text-decoration: underline solid #0088a9;
+          text-decoration: underline solid #0088a9;
+  font-size: 60px;
+  color: #0088a9;
+}
+
+.container-serveces {
+  margin: 100px 10px 10px 10px;
+}
+
+
+/*# sourceMappingURL=/serveces.0540d1cf.css.map */

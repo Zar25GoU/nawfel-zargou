@@ -1,0 +1,83 @@
+.container-header-logo, .container-header-nav_bar li a:hover {
+  cursor: pointer;
+  color: #fff;
+  background-color: #0088a9;
+  padding: 8px;
+  border: none;
+  border-radius: 50px;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  background-color: #242528;
+}
+
+.container-header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 30px 10%;
+}
+
+.container-header-nav_bar {
+  list-style: none;
+}
+
+.container-header-nav_bar li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.container-header-nav_bar li a {
+  -webkit-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+  text-decoration: none;
+  color: #fff;
+}
+
+.container-header-button {
+  padding: 9px 25px;
+  background-color: #0088a9;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  -webkit-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+  text-decoration: none;
+  color: #fff;
+}
+
+.container-header-button:hover {
+  background-color: rgba(0, 136, 169, 0.8);
+}
+
+.container-content {
+  color: #fff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 30px 10%;
+}
+
+.container-content-decoration a {
+  text-decoration: none;
+  color: #fff;
+}
+
+
+/*# sourceMappingURL=/style.21be07c4.css.map */
