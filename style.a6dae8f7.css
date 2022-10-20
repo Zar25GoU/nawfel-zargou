@@ -210,7 +210,7 @@
 }
 @media only screen and (max-width: 900px) {
   .container-content {
-    display: block;
+    display: inline-table;
     height: 150vh;
   }
   .container-content-first_articul {
